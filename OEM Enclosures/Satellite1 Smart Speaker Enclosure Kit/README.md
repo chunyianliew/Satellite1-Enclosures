@@ -70,7 +70,7 @@
 The enclosures in this repo relate to the Satellite1 Voice Assistant
 
 <div style="text-align: center;">
-    <a href="https://docs.futureproofhomes.net/satellite1-squircle-enclosures">
+    <a href="https://docs.futureproofhomes.net/satellite1-smart-speaker-enclosure-kit/">
         <img src="../../assets/images/sat1_enclosure_kit.jpg" alt="Satellite1 Smart Speaker Enclosure Kit" width="80%" style="border-radius:5%">
     </a>
 </div>
@@ -78,7 +78,7 @@ The enclosures in this repo relate to the Satellite1 Voice Assistant
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Go to [Docs.FutureProofHomes.net/satellite1-squircle-enclosures](https://docs.futureproofhomes.net/satellite1-squircle-enclosures) and follow the instructions to print and assemble your enclosure.
+Go to [Docs.FutureProofHomes.net/satellite1-squircle-enclosures](https://docs.futureproofhomes.net/satellite1-smart-speaker-enclosure-kit/#assemble-the-kit) and follow the instructions to print and assemble your enclosure.
 
 <!-- CONTRIBUTING -->
 ## Contributing
